@@ -1,5 +1,7 @@
 <h1 align="center">Hello, I am Omar Ayman Gaber</h1>
-- You can check my resume from this link <a href="https://flowcv.com/resume/lfcw6ipo72">Omar Ayman Resume</a>
+
+<h2>- You can check my resume from this link <a href="https://flowcv.com/resume/lfcw6ipo72">Omar Ayman Resume</a>
+</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
