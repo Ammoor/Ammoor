@@ -5,7 +5,7 @@
   <li>PHP Full-Stack Developer Intern @ DEPI</li>
   <li>AI Career Essentials Intern @ ALX Arabia</li>
 </ul>
-<h2>Currently I learn with DEPI :</h2>
+<h2>Currently, I learn with DEPI :</h2>
 <ul>
   <li>JavaScript</li>
   <li>PHP</li>
