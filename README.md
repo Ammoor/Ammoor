@@ -1,3 +1,4 @@
+<h1 align="center">Welcome 🥰</h1>
 <h1 align="center">Hello, I am Omar Ayman Gaber</h1>
 <h2>About me :</h2>
 <ul>
@@ -6,7 +7,7 @@
   <li>AI Career Essentials Intern @ ALX Arabia</li>
 </ul>
 <h2>My resume :</h2>
-<h3 align="center">You can check my resume from this link: <a href="https://flowcv.com/resume/lfcw6ipo72">Omar Ayman Resume</a></h3>
+<strong><h3 align="center">You can check my resume from this link: <a href="https://flowcv.com/resume/lfcw6ipo72">Omar_Ayman_Resume</a></h3></strong>
 <h3 align="left">Professional Links:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/omar-ayman-gaber/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn profile" height="30" width="40" /></a>
