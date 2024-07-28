@@ -16,7 +16,7 @@
 </ul>
 <h2>My resume :</h2>
 <strong><h3 align="center">For more information, you can check my resume from this link : <a href="https://flowcv.com/resume/lfcw6ipo72">Omar_Ayman_Resume</a></h3></strong>
-<h3 align="left">Sosial Media :</h3>
+<h3 align="left">Social Media :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/omar-ayman-gaber/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn profile" height="30" width="40" /></a>
 <a href="https://x.com/omaraym68287778" target="_blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" alt="Twitter profile" height="40" width="40" /></a>
