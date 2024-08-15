@@ -1,9 +1,9 @@
 <h1 align="center">Welcome, I am Omar Ayman Gaber</h1>
 <h2>About me :</h2>
 <ul>
-  <li>Student at Faculty of Computer Science and Artificial Intelligence, Fayoum University</li>
-  <li>PHP Full-Stack Developer Intern @ DEPI</li>
-  <li>AI Career Essentials Intern @ ALX Arabia</li>
+  <li>Student at FCSAI @ Fayoum University</li>
+  <li>PHP Full-Stack Web Developer Intern @ DEPI</li>
+  <li>Aspire Leaders Program Intern @ Aspire Institute</li>
 </ul>
 <h2>Currently, I learn with DEPI :</h2>
 <ul>
