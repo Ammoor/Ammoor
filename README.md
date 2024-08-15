@@ -5,7 +5,7 @@
   <li>PHP Full-Stack Web Developer Intern @ DEPI</li>
   <li>Aspire Leaders Program Intern @ Aspire Institute</li>
 </ul>
-<h2>Currently, I learn with DEPI :</h2>
+<h2>Currently, I am learning these skills in PHP Full-Stack Web Development with DEPI :</h2>
 <ul>
   <li>JavaScript</li>
   <li>PHP</li>
@@ -26,5 +26,3 @@
 <a href="https://codeforces.com/profile/Ammoor-O.A.G" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces profile" height="40" width="40" /></a>
 <a href="https://leetcode.com/u/Omar-Ayman-Gaber/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode profile" height="30" width="40" /></a>
 </p>
-<h3 align="left">Current Languages :</h3>
-<p align="left"> <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> </a> <a href="https://cdn-icons-png.flaticon.com/512/732/732212.png" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html5" width="40" height="40"/> </a> <a href="https://cdn.iconscout.com/icon/free/png-256/free-css3-9-1175237.png?f=webp&w=256" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-css3-9-1175237.png?f=webp&w=256" alt="css3" width="40" height="40"/> </a> </p>
