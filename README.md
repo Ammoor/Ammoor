@@ -38,9 +38,7 @@ Experienced PHP Laravel Full-Stack Engineer and a Bachelor’s degree student in
 
 <p align="left">
 <a href="https://www.linkedin.com/in/omar-ayman-gaber/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Omar Ayman | LinkedIn" height="35" width="40" /></a>
-
 <a href="https://www.youtube.com/@OmarAymanGaber" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Omar Ayman | YouTube" height="40" width="40" /></a>
-
 <a href="https://x.com/omaraym68287778" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Omar Ayman | Twitter" height="35" width="40" /></a>
 </p>
 
@@ -48,6 +46,5 @@ Experienced PHP Laravel Full-Stack Engineer and a Bachelor’s degree student in
 
 <p align="left">
 <a href="https://codeforces.com/profile/Ammoor-O.A.G" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Omar Ayman | Codeforces" height="40" width="40" /></a>
-
 <a href="https://leetcode.com/u/Omar-Ayman-Gaber/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Omar Ayman | LeetCode" height="30" width="40" /></a>
 </p>
