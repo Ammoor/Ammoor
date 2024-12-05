@@ -1,11 +1,13 @@
 <div align="center">
- <img src="./Al-Khwarizmi.jpeg" width="300" />  
+ <img src="./Al-Khwarizmi.jpeg" width="500" />  
 </div>
 
-<h1 align="center">Hi there 👋, I'm Omar Ayman Gaber</h1>
+<h1 align="center">Welcome, I am Omar Ayman Gaber</h1>
+
+Experienced PHP Laravel Full-Stack Engineer and a Bachelor’s degree student in Computer Science with a focus on building secure, scalable, and user-friendly web applications. With Front-End and Back-End development expertise, I prioritize clean code, intuitive design, and efficient solutions. Committed to continuous learning and delivering impactful results.
 
 <h2>My Resume:</h2>
-<h3 align="center">For more information, you can check my resume from this link : <a href="https://flowcv.com/resume/lfcw6ipo72">Omar_Ayman_Resume</a></h3>
+<h3 align="center">For more information, you can check my resume from this link: <a href="https://flowcv.com/resume/lfcw6ipo72">Omar_Ayman_Resume</a></h3>
 
 <h2>My Tools:</h2>
 
