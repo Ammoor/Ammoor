@@ -6,7 +6,7 @@ Experienced PHP Laravel Full-Stack Engineer and a Bachelor’s degree student in
 
 ## My Resume:
 
-<h3 align="center">For more information, you can check my resume from this link: <a href="https://flowcv.com/resume/lfcw6ipo72">Omar_Ayman_Resume</a></h3>
+<h3 align="center">For more information, you can check my resume from this link: <a href="https://flowcv.com/resume/lfcw6ipo72">Omar Ayman | Resume</a></h3>
 
 ## Programming Languages:
 
