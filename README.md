@@ -1,8 +1,6 @@
-<div align="center">
- <img src="./images/Omar_Ayman_Brand_Logo.gif" alt="Omar Ayman Brand Logo" />  
-</div>
+<img src="./images/Omar_Ayman_Brand_Logo.gif" alt="Omar Ayman Brand Logo" />
 
-<h1 align="center">Welcome, I am Omar Ayman Gaber</h1>
+<h1 align="center">Welcome, I am Omar Ayman</h1>
 
 Experienced PHP Laravel Full-Stack Engineer and a Bachelor’s degree student in Computer Science with a focus on building secure, scalable, and user-friendly web applications. With Front-End and Back-End development expertise, I prioritize clean code, intuitive design, and efficient solutions. Committed to continuous learning and delivering impactful results.
 
@@ -12,23 +10,23 @@ Experienced PHP Laravel Full-Stack Engineer and a Bachelor’s degree student in
 
 ## Programming Languages:
 
-  <a href="https://www.linkedin.com/in/omar-ayman-gaber/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,php" alt="Programming Languages" />
-  </a>
+<a href="https://www.linkedin.com/in/omar-ayman-gaber/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,php" alt="Programming Languages" />
+</a>
 
 ## Tools and Technologies:
 
 ### Web Development Technologies
 
-  <a href="https://www.linkedin.com/in/omar-ayman-gaber/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,laravel,mysql" alt="Web Development Technologies" />
-  </a>
+<a href="https://www.linkedin.com/in/omar-ayman-gaber/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html,css,laravel,mysql" alt="Web Development Technologies" />
+</a>
 
 ### Development Tools
 
-  <a href="https://www.linkedin.com/in/omar-ayman-gaber/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git,github,md" alt="Development Tools" />
-  </a>
+<a href="https://www.linkedin.com/in/omar-ayman-gaber/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git,github,md" alt="Development Tools" />
+</a>
 
 ## Freelancing Websites:
 
