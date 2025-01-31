@@ -1,5 +1,5 @@
 <div align="center">
- <img src="./images/Al-Khwarizmi.jpeg" width="500" />  
+ <img src="./images/Omar_Ayman_Brand_Logo.gif" alt="Omar Ayman Brand Logo" />  
 </div>
 
 <h1 align="center">Welcome, I am Omar Ayman Gaber</h1>
@@ -13,7 +13,7 @@ Experienced PHP Laravel Full-Stack Engineer and a Bachelor’s degree student in
 ## Programming Languages:
 
   <a href="https://www.linkedin.com/in/omar-ayman-gaber/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,php" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,php" alt="Programming Languages" />
   </a>
 
 ## Tools and Technologies:
@@ -21,13 +21,13 @@ Experienced PHP Laravel Full-Stack Engineer and a Bachelor’s degree student in
 ### Web Development Technologies
 
   <a href="https://www.linkedin.com/in/omar-ayman-gaber/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,laravel,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,laravel,mysql" alt="Web Development Technologies" />
   </a>
 
 ### Development Tools
 
   <a href="https://www.linkedin.com/in/omar-ayman-gaber/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git,github,md" />
+    <img src="https://skillicons.dev/icons?i=git,github,md" alt="Development Tools" />
   </a>
 
 ## Freelancing Websites:
