@@ -25,7 +25,7 @@ Experienced PHP Laravel Full-Stack Engineer and a Bachelor’s degree student in
 ### Development Tools
 
 <a href="https://www.linkedin.com/in/omar-ayman-gaber/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=git,github,md" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,md" alt="Development Tools" />
 </a>
 
 ## Freelancing Websites:
